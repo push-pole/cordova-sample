@@ -1,7 +1,7 @@
 {
   "name": "com.example.hello10",
   "displayName": "HelloWorld",
-  "version": "1.0.0",
+  "version": "1.7.1",
   "description": "A sample Apache Cordova application that responds to the deviceready event.",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "cordova-plugin-dialogs": "^2.0.2",
-    "pushe-cordova": "^1.7.0"
+    "pushpole-cordova": "^1.7.1"
   },
   "devDependencies": {
     "cordova-plugin-whitelist": "^1.3.4"
@@ -23,7 +23,7 @@
     "plugins": {
       "cordova-plugin-whitelist": {},
       "cordova-plugin-dialogs": {},
-      "pushe-cordova": {}
+      "pushpole-cordova": {}
     },
     "platforms": []
   }
